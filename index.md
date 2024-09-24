@@ -2,4 +2,8 @@
 
 ## Header 2
 
-Added header 1 and header 2 to index.md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Added header 1 and header 2 to index.md.
+
+Added Image of Yaktocat
