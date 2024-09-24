@@ -7,3 +7,16 @@
 Added header 1 and header 2 to index.md.
 
 Added Image of Yaktocat
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` r
+test = "test"
+```
